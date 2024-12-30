@@ -1,0 +1,14 @@
+{
+    "ID": "88926194537145688fa20dcb65de1890",
+    "ActionKeyword": "pcfg",
+    "Disabled": false,
+    "IsGlobal": false,
+    "Name": "SetPowerScheme",
+    "Author": "ssnjr2002",
+    "Version": "0.1.2",
+    "Language": "csharp",
+    "Website": "https://github.com/ssnjr2002/PowerToys-Run-SetPowerScheme",
+    "ExecuteFileName": "Community.PowerToys.Run.Plugin.SetPowerScheme.dll",
+    "IcoPathDark": "Images\\SetPowerScheme.dark.png",
+    "IcoPathLight": "Images\\SetPowerScheme.light.png"
+}

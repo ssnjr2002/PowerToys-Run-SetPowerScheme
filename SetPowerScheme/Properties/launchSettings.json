@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "debug.ps1": {
+      "commandName": "Executable",
+      "executablePath": "powershell",
+      "commandLineArgs": ".\\debug.ps1",
+      "workingDirectory": "C:\\Users\\ssnjr\\source\\repos\\SetPowerScheme\\SetPowerScheme"
+    },
+    "release.ps1": {
+      "commandName": "Executable",
+      "executablePath": "powershell",
+      "commandLineArgs": ".\\release.ps1",
+      "workingDirectory": "C:\\Users\\ssnjr\\source\\repos\\SetPowerScheme\\SetPowerScheme"
+    }
+  }
+}
